@@ -1,4 +1,4 @@
-# nuxt-verify-code
+# nuxt-pagination
 
 > 📱 Pagination component NuxtJs. Writing on Composition API with TypeScript.
 
