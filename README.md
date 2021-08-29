@@ -1,6 +1,6 @@
 # nuxt-pagination
 
-> 📱 Pagination component NuxtJs. Writing on Composition API with TypeScript.
+> 📋 Pagination component NuxtJs wihtout server pagination only client. Writing on Composition API with TypeScript amd Mixin.
 
 ## Live demo
 
