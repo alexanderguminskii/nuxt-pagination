@@ -1,5 +1,5 @@
 <template>
-  <div v-if="!$fetchState.pending">
+  <div v-if="!$fetchState.pending" class="container">
     <div class="list">
       <div v-for="(item, idx) in viewItems" :key="idx" class="list-item"> {{ item }} </div>   
     </div>
